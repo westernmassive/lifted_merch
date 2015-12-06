@@ -1,0 +1,13 @@
+Final project for General Assembly Back End Web Development Course
+
+A brief example of how to create:
+
+1) A home page
+
+2) A private products catalog
+
+3) A shopping cart
+
+4) An admin page only accessible for administrators
+
+Note: This is not a working application with stripe. Orders would be placed and fulfilled on the back end through admin only, as in wholesale/screen printer type transactions.
