@@ -1,3 +1,6 @@
+https://liftedmerch2.herokuapp.com/
+
+
 Final project for General Assembly Back End Web Development Course
 
 A brief example of how to create:
